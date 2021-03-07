@@ -1,0 +1,2 @@
+# everyday-up
+study everyday
